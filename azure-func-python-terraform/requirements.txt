@@ -1,0 +1,6 @@
+azure-functions==1.20.0
+pydantic==2.8.2
+structlog==24.4.0
+pytest==8.2.2
+typing-extensions==4.12.2
+pydantic-core==2.20.1

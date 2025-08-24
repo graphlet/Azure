@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+.git/
+.vscode/
+.tests/
+tests/
+.local.settings.json
+README.md
+infra/
+scripts/
+.github/
+*.md

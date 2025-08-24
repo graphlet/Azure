@@ -1,0 +1,7 @@
+project_name = "azfunc-ref"
+location     = "westeurope"
+environment  = "dev"
+
+tags = {
+  owner = "you@example.com"
+}

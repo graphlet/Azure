@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+.venv/
+.env
+.env.*
+venv/
+dist/
+build/
+.eggs/
+
+# VS Code & tooling
+.vscode/
+.mypy_cache/
+.pytest_cache/
+coverage*
+htmlcov/
+
+# Azure Functions local
+.local_tooling/
+bin/
+obj/
+.local.settings.json
+.local/
+secrets/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.*
+terraform.tfvars
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Node (if ever used)
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
